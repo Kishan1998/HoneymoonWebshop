@@ -13,12 +13,6 @@ namespace ConsoleApplicationBranchTest
             Console.WriteLine("Hello World!");
         }
 
-        class Animal
-        {
-            public Animal()
-            {
-
-            }
         }
     }
 }
